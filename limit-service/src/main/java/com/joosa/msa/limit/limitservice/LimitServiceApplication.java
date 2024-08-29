@@ -1,13 +1,13 @@
-package com.joosa.msa.msacource;
+package com.joosa.msa.limit.limitservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MsaCourceApplication {
+public class LimitServiceApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MsaCourceApplication.class, args);
+        SpringApplication.run(LimitServiceApplication.class, args);
     }
 
 }

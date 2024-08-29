@@ -1,10 +1,10 @@
-package com.joosa.msa.msacource;
+package com.joosa.msa.limit.limitservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MsaCourceApplicationTests {
+class LimitServiceApplicationTests {
 
     @Test
     void contextLoads() {
